@@ -1,0 +1,4 @@
+{
+    "collections": [{ "name": "zephyr", "path": "./zephyr" }],
+    "enable_hover": true
+}
